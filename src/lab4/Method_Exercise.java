@@ -11,7 +11,7 @@ public class Method_Exercise {
         System.out.print("Enter number 1: ");
         double x =sc.nextDouble();
         System.out.print("Enter number 2: ");
-        double y =sc.nextDouble() ;
+        double y =sc.nextDouble();
 
         //dissplay
         System.out.println("The summation of "+x+"and"+y+": "+sum(x,y));
