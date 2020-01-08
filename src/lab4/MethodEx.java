@@ -36,7 +36,7 @@ public class MethodEx {
 
     public static int C (int x,int y){
         System.out.println("Hello from C().");
-        int sum = x+y;
+        int sum = x + y;
         return sum;
     }
 
