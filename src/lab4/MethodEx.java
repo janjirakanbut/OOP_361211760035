@@ -32,12 +32,16 @@ public class MethodEx {
         System.out.println("Hello from B().");
         System.out.println("Message: "+msg);
         System.out.println("Message2: "+msg2);
-    }//B
+}//B
 
     public static int C (int x,int y){
         System.out.println("Hello from C().");
         int sum = x+y;
         return sum;
+
+
+
+
     }
 
 }//class
